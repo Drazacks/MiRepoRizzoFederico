@@ -47,3 +47,20 @@ body {
 .contenedor {
     text-align: center;
 }
+
+a {
+    text-decoration: none !important;
+    font-size: 17px;
+}
+
+p {
+    font-size: 17px;
+}
+
+a:hover {
+    color:#0d6efd !important
+}
+
+i {
+    font-size: 25px;
+}
