@@ -18,30 +18,6 @@ body {
 .tituloPrincipal2 {
     color: black;
     text-align: lef;
-
-}
-
-.grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-
-.div1 {
-    /* background-color: #967707; */
-    color: black;
-    justify-self: center;
-    align-self: center;
-}
-
-.div2 {
-    background-color: #e6e6e6;
-    justify-self: center;
-    align-self: center;
-}
-
-.conteiner {
-    display: grid;
-    place-items: center;
 }
 
 .contenedor {
