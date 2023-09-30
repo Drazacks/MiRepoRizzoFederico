@@ -8,7 +8,7 @@ body {
 
 }
 
-
+/* style para el main*/
 .tituloPrincipal {
     color: black;
     text-align: center;
@@ -24,6 +24,8 @@ body {
     text-align: center;
 }
 
+
+/* style para el footer*/
 a {
     text-decoration: none !important;
     font-size: 16px;
@@ -49,6 +51,7 @@ i {
     flex: 1;
 }
 
+/*style para los videos*/
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
